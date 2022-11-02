@@ -2,7 +2,7 @@
 
 `Frontend Web Developer`
 
-I am a self-taught frontend web developer...
+I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
 
 ---
 
