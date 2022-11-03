@@ -71,7 +71,7 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 ### 📊 Stats
 
 ![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
-[![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)](https://github.com/edmond-luu/github-readme-activity-graph)
+![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
