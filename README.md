@@ -30,11 +30,11 @@ Thank you for visiting my GitHub profile. You have stayed on this page for:
 <img align="left" alt="VSCode" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199842530-64fd0a9f-2727-4017-886f-01c5a7c7614e.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199828245-291d6d94-ae2a-41bc-bd2a-70d13cc7cdc1.svg" />
+<img align="left" alt="Markdown" height="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199828245-291d6d94-ae2a-41bc-bd2a-70d13cc7cdc1.svg" />
 
-#
-#
----
+<br/>
+<br/>
+<br/>
 
 ### 💻 Favorite Projects
 
