@@ -1,4 +1,5 @@
-# 🖥️ Edmond Luu
+
+![4WfSAyUt](https://user-images.githubusercontent.com/26613209/199795691-9538f8d5-4573-468e-a13d-a22f782d7f21.gif)
 
 `Frontend Web Developer`
 
