@@ -6,6 +6,16 @@
 
 I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
 
+#
+
+<p align="center">
+Thank you for visiting my GitHub profile. You have stayed on this page for:
+</p>
+
+<p align="center">
+<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="100px" height="100px"></a>
+</p>
+
 ---
 ### 🧰 Languages & Tools
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -15,10 +25,12 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199842530-64fd0a9f-2727-4017-886f-01c5a7c7614e.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199828245-291d6d94-ae2a-41bc-bd2a-70d13cc7cdc1.svg" />
 <br />
+
 
 #
 
