@@ -17,7 +17,9 @@ Thank you for visiting my GitHub profile. You have stayed on this page for:
 </p>
 
 ---
+
 ### 🧰 Languages & Tools
+
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -25,14 +27,14 @@ Thank you for visiting my GitHub profile. You have stayed on this page for:
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="VSCode" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199842530-64fd0a9f-2727-4017-886f-01c5a7c7614e.svg"/>
+<img align="left" alt="VSCode" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199842530-64fd0a9f-2727-4017-886f-01c5a7c7614e.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199828245-291d6d94-ae2a-41bc-bd2a-70d13cc7cdc1.svg" />
-<br />
-
 
 #
+#
+---
 
 ### 💻 Favorite Projects
 
