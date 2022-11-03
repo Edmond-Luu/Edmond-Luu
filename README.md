@@ -27,13 +27,13 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 <table>
  
 <tr>
-<td><a href="https://edmond-luu.github.io" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/26613209/199573858-1f6d740b-05ce-4484-aa54-b8073f404657.png" width=500px/></a></td>
-<td><a href="https://edmond-luu.github.io/react-todo-list" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/26613209/199574496-06224f8f-ac94-4b44-9a44-3a5e88c27c30.png" width=500px/></a></td>
+<td><a href="https://edmond-luu.github.io"><img src="https://user-images.githubusercontent.com/26613209/199573858-1f6d740b-05ce-4484-aa54-b8073f404657.png" width=500px/></a></td>
+<td><a href="https://edmond-luu.github.io/react-todo-list"><img src="https://user-images.githubusercontent.com/26613209/199574496-06224f8f-ac94-4b44-9a44-3a5e88c27c30.png" width=500px/></a></td>
 </tr>
 
 <tr>
-<td>Personal Website • <a href="https://github.com/Edmond-Luu/Edmond-Luu.github.io" target="_blank" rel="noopener noreferrer">Repo</a> • <a href="https://edmond-Luu.github.io">Website</a></td>
-<td>Interactive Todo List • <a href="https://github.com/Edmond-Luu/react-todo-list" target="_blank" rel="noopener noreferrer">Repo</a> • <a href="https://edmond-Luu.github.io/react-todo-list">Application</a></td>
+<td>Personal Website • <a href="https://github.com/Edmond-Luu/Edmond-Luu.github.io">Repo</a> • <a href="https://edmond-Luu.github.io">Website</a></td>
+<td>Interactive Todo List • <a href="https://github.com/Edmond-Luu/react-todo-list">Repo</a> • <a href="https://edmond-Luu.github.io/react-todo-list">Application</a></td>
 
 </tr>
 
@@ -47,22 +47,22 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
  </tr>
  
  <tr>
-<td>Currency Exchange Application • <a href="https://github.com/Edmond-Luu/react-currency-exchange" target="_blank" rel="noopener noreferrer">Repo</a> • <a href="https://edmond-Luu.github.io/react-currency-exchange">Application</a></td>
-     <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/react-currency-exchange" target="_blank" rel="noopener noreferrer">Repo</a> • <a href="https://edmond-Luu.github.io/react-currency-exchange">Application</a></td>
+<td>Currency Exchange Application • <a href="https://github.com/Edmond-Luu/react-currency-exchange">Repo</a> • <a href="https://edmond-Luu.github.io/react-currency-exchange">Application</a></td>
+     <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/react-currency-exchange">Repo</a> • <a href="https://edmond-Luu.github.io/react-currency-exchange">Application</a></td>
  </tr>
  </table>
  
  
  <table>
  <tr>
-<td><a href="https://edmond-luu.github.io/dad-joke" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/26613209/199789093-e43e4b6a-7745-474a-870c-d8160e2feb2a.png" width=500px/></a></td>
-  <td><a href="https://edmond-luu.github.io/measurementConverter" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/26613209/199789466-eafec8dd-dfa5-412d-95bb-bffb2e62bcd2.png" width=500px/></a></td>
+<td><a href="https://edmond-luu.github.io/dad-joke"><img src="https://user-images.githubusercontent.com/26613209/199789093-e43e4b6a-7745-474a-870c-d8160e2feb2a.png" width=500px/></a></td>
+  <td><a href="https://edmond-luu.github.io/measurementConverter"><img src="https://user-images.githubusercontent.com/26613209/199789466-eafec8dd-dfa5-412d-95bb-bffb2e62bcd2.png" width=500px/></a></td>
 
  </tr>
  
  <tr>
-   <td>Dad Joke Generator • <a href="https://github.com/Edmond-Luu/dad-joke" target="_blank" rel="noopener noreferrer">Repo</a> • <a href="https://edmond-Luu.github.io/dad-joke">Application</a></td>
-     <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/measurementConverter" target="_blank" rel="noopener noreferrer">Repo</a> • <a href="https://edmond-Luu.github.io/measurementConverter">Application</a></td>
+   <td>Dad Joke Generator • <a href="https://github.com/Edmond-Luu/dad-joke">Repo</a> • <a href="https://edmond-Luu.github.io/dad-joke">Application</a></td>
+     <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/measurementConverter">Repo</a> • <a href="https://edmond-Luu.github.io/measurementConverter">Application</a></td>
  </tr>
  </table>
 
