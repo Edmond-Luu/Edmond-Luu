@@ -58,7 +58,7 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
  </tr>
  
  <tr>
-   <td>Currency Exchange Application • <a href="https://github.com/Edmond-Luu/dad-joke">Repo</a> • <a href="https://edmond-Luu.github.io/dad-joke">Application</a></td>
+   <td>Dad Joke Generator • <a href="https://github.com/Edmond-Luu/dad-joke">Repo</a> • <a href="https://edmond-Luu.github.io/dad-joke">Application</a></td>
      <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/measurementConverter">Repo</a> • <a href="https://edmond-Luu.github.io/measurementConverter">Application</a></td>
  </tr>
  </table>
