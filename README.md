@@ -68,6 +68,14 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 
 #
 
+### 📊 Stats
+
+![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 <details>
  <summary><h3>👨‍💻 Edmond's Coding Story</h3></summary>
    I graduated college with the intend of entering the accounting field and I have previously worked as a bookkeeping intern. However, I decided that the accounting field is not the right fit for me as I wanted a much bigger challenge and a career where I can continuously build and improve.
