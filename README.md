@@ -9,7 +9,7 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 #
 
 <p align="center">
-Thank you for visiting my GitHub profile. You have stayed on this page for:
+Thank you for visiting my GitHub profile! You have stayed on this page for:
 </p>
 
 <p align="center">
