@@ -8,6 +8,8 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 
 #
 
+
+
 <p align="center">
 Thank you for visiting my GitHub profile! You have stayed on this page for:
 </p>
@@ -79,6 +81,19 @@ Thank you for visiting my GitHub profile! You have stayed on this page for:
      <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/measurementConverter">Repo</a> • <a href="https://edmond-Luu.github.io/measurementConverter">Application</a></td>
  </tr>
  </table>
+ 
+#
+
+### 🛠️ Current Projects
+<table>
+ <tr>
+  <td><a href="https://edmond-luu.github.io/roulette"><img src="https://user-images.githubusercontent.com/26613209/200053453-547fa89c-1ada-4313-8e39-574204983261.png" width=500px/></a></td>
+ </tr>
+ 
+ <tr>
+  <td>React Roulette Game • <a href="https://github.com/Edmond-Luu/roulette">Repo</a> • <a href="https://edmond-Luu.github.io/roulette">Application</a></td>
+ </tr>
+</table>
 
 #
 
