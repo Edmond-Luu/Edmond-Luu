@@ -9,8 +9,8 @@
 
 </div>
 
-
-I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
+<h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
+Hello! I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
 
 #
 
@@ -20,8 +20,9 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 
 ---
 
-### 🧰 Languages & Tools
-<div style="display: flex; align-items: flex-start;">
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="30" height="30"> Languages & Tools</h2>
+<div 
+     "display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" />
@@ -47,14 +48,13 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 [//]: <img align="left" alt="TypeScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 [//]: <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-
 <br/>
 <br/>
 <br/>
 
 ---
 
-### 💻 Favorite Projects
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Favorite Projects</h2>
 
 <table>
  
@@ -100,7 +100,8 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
  
 #
 
-### 🛠️ Current Projects
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="30" height="30"> Current Projects</h2>
+
 <table>
  <tr>
   <td><a href="https://edmond-luu.github.io/roulette"><img src="https://user-images.githubusercontent.com/26613209/200053453-547fa89c-1ada-4313-8e39-574204983261.png" width=500px/></a></td>
@@ -113,7 +114,7 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 
 #
 
-### 📊 Stats
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="30" height="30"> Stats</h2>
 
 ![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 ![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)
@@ -123,3 +124,16 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 <details>
  <summary><h3>👨‍💻 Edmond's Coding Story</h3></summary>
    I graduated college with the intend of entering the accounting field and I have previously worked as a bookkeeping intern. However, I decided that the accounting field is not the right fit for me as I wanted a much bigger challenge and a career where I can continuously build and improve.
+</details>
+
+<details>
+<summary><h3>🎶 Now Playing </h3></summary>
+<a href="https://music.youtube.com/watch?v=_uOk67A4Rnk"><img src="https://i.scdn.co/image/ab67616d0000b273dfe389d43f31c25ae8cb2d31" alt="The Petersens" width="238"/></a>
+ <a href="https://music.youtube.com/watch?v=_uOk67A4Rnk"><p><strong>The Petersens - Top of the World</strong></p></a>
+ </details>
+
+ 
+
+
+<div>
+</div>
