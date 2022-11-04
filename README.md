@@ -5,8 +5,6 @@
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Web+Developer;Always+learning+new+things!&color=25a14c&font=arial)](https://git.io/typing-svg)
 
-</div>
-
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
 Hello! I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
 
@@ -129,9 +127,3 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 <a href="https://music.youtube.com/watch?v=_uOk67A4Rnk"><img src="https://i.scdn.co/image/ab67616d0000b273dfe389d43f31c25ae8cb2d31" alt="The Petersens" width="238"/></a>
  <a href="https://music.youtube.com/watch?v=_uOk67A4Rnk"><p><strong>The Petersens - Top of the World</strong></p></a>
  </details>
-
- 
-
-
-<div>
-</div>
