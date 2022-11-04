@@ -117,7 +117,7 @@ Thank you for visiting my GitHub profile! You have stayed on this page for:
 
 ![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 ![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)
-![Snake animation](https://github.com/edmond-luu/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/edmond-luu/edmond-luu/blob/output/github-contribution-snake.svg)
 
 #
 
