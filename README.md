@@ -111,9 +111,7 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 #
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="30" height="30"> Stats</h2>
-
-![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
-![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)
+<img src="https://github.com/Edmond-Luu/Edmond-Luu/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 #
 
