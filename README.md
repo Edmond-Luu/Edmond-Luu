@@ -116,9 +116,7 @@ Thank you for visiting my GitHub profile! You have stayed on this page for:
 ### 📊 Stats
 
 ![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
-![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)
 
 #
 
