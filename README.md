@@ -1,11 +1,9 @@
 
 [//]: (![4WfSAyUt](https://user-images.githubusercontent.com/26613209/199795691-9538f8d5-4573-468e-a13d-a22f782d7f21.gif))
 
-<div>
-<img src="https://user-images.githubusercontent.com/26613209/199798452-b2f86139-4210-4ab7-b1e5-3dbdc3662fb4.gif"/>
-
-<img src="https://user-images.githubusercontent.com/26613209/199841272-9764c411-9749-40d6-ac08-48d4469a10ff.gif"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Edmond+Luu&vCenter=true&size=50&color=0036fa&font=arial)](https://git.io/typing-svg)
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Web+Developer;Always+learning+new+things!&color=25a14c&font=arial)](https://git.io/typing-svg)
 
 </div>
 
