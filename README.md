@@ -2,8 +2,6 @@
 [//]: (![4WfSAyUt](https://user-images.githubusercontent.com/26613209/199795691-9538f8d5-4573-468e-a13d-a22f782d7f21.gif))
 ![Vanilla-0 7s-285px](https://user-images.githubusercontent.com/26613209/199798452-b2f86139-4210-4ab7-b1e5-3dbdc3662fb4.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/26613209/199841272-9764c411-9749-40d6-ac08-48d4469a10ff.gif)
-
 I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
 
 #
@@ -21,20 +19,35 @@ Thank you for visiting my GitHub profile! You have stayed on this page for:
 ---
 
 ### 🧰 Languages & Tools
-<img align="left" alt="React" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TypeScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" />
+</div>
+
+<br/>
+
+<div>
 <img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bootstrap" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="VSCode" width="45px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199842530-64fd0a9f-2727-4017-886f-01c5a7c7614e.svg" />
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Markdown" height="45px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26613209/199828245-291d6d94-ae2a-41bc-bd2a-70d13cc7cdc1.svg" />
+</div>
 
-#
-#
+[//]: <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+[//]: <img align="left" alt="React" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+[//]: <img align="left" alt="TypeScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+[//]: <img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+
+<br/>
+<br/>
+<br/>
 
 ---
 
@@ -101,6 +114,7 @@ Thank you for visiting my GitHub profile! You have stayed on this page for:
 
 ![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 ![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)
+![Snake animation](https://github.com/edmond-luu/github-readme/blob/output/github-contribution-snake.svg)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
