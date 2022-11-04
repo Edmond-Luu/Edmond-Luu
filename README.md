@@ -14,14 +14,8 @@ I am a self-taught frontend web developer in San Jose, CA and I am currently loo
 
 #
 
-
-
 <p align="center">
-Thank you for visiting my GitHub profile! You have stayed on this page for:
-</p>
-
-<p align="center">
-<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="100px" height="100px"></a>
+<img src="https://github.com/edmond-luu/edmond-luu/blob/output/github-contribution-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -123,7 +117,6 @@ Thank you for visiting my GitHub profile! You have stayed on this page for:
 
 ![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmond-luu&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 ![Edmond's github activity graph](https://activity-graph.herokuapp.com/graph?username=edmond-luu&theme=tokyo-night)
-![Snake animation](https://github.com/edmond-luu/edmond-luu/blob/output/github-contribution-snake.svg)
 
 #
 
