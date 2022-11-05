@@ -10,9 +10,9 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 
 #
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/edmond-luu/edmond-luu/blob/output/github-contribution-snake.svg" alt="Snake animation"/>
-</p>
+</p> -->
 
 ---
 
