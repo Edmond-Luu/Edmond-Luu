@@ -1,9 +1,11 @@
 
 [//]: (![4WfSAyUt](https://user-images.githubusercontent.com/26613209/199795691-9538f8d5-4573-468e-a13d-a22f782d7f21.gif))
-
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Edmond+Luu&vCenter=true&size=50&color=0036fa&font=arial)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Web+Developer;Always+learning+new+things!&color=25a14c&font=arial)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Web+Developer;Always+learning+new+things!&color=25a14c&font=arial)](https://git.io/typing-svg) -->
+
+![github-header-image(2)](https://user-images.githubusercontent.com/26613209/200185658-3fff5b39-9b34-4bdc-ab77-4cca55aadb65.png)
 
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
 Hello! I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
