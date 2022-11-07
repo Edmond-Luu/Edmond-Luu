@@ -102,7 +102,7 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 
 <table>
  <tr>
-  <td><a href="https://edmond-luu.github.io/roulette"><img src="https://user-images.githubusercontent.com/26613209/200053453-547fa89c-1ada-4313-8e39-574204983261.png" width=500px/></a></td>
+  <td><a href="https://edmond-luu.github.io/roulette"><img src="https://user-images.githubusercontent.com/26613209/200438925-97fafd35-4d15-44f6-ba65-fced7cc71583.png" width=500px/></a></td>
  </tr>
  
  <tr>
