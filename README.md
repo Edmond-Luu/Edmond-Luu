@@ -5,7 +5,7 @@
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Web+Developer;Always+learning+new+things!&color=25a14c&font=arial)](https://git.io/typing-svg) -->
 
-![github-header-image(2)](https://user-images.githubusercontent.com/26613209/200185658-3fff5b39-9b34-4bdc-ab77-4cca55aadb65.png)
+![github-head1er-image(5)](https://user-images.githubusercontent.com/26613209/200404709-3c8a750e-db81-495d-8b18-8519bcd72d52.png)
 
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
 Hello! I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
