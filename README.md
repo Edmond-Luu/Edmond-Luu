@@ -79,7 +79,7 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
  
  <tr>
 <td>Currency Exchange Application • <a href="https://github.com/Edmond-Luu/react-currency-exchange">Repo</a> • <a href="https://edmond-Luu.github.io/react-currency-exchange">Application</a></td>
-     <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/react-currency-exchange">Repo</a> • <a href="https://edmond-Luu.github.io/react-currency-exchange">Application</a></td>
+     <td>React Tenzies Game • <a href="https://github.com/Edmond-Luu/react-tenzies">Repo</a> • <a href="https://edmond-Luu.github.io/react-tenzies">Application</a></td>
  </tr>
  </table>
  
