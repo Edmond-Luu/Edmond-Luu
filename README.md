@@ -6,6 +6,7 @@
 
 ![github-head1er-image(5)](https://user-images.githubusercontent.com/26613209/200404709-3c8a750e-db81-495d-8b18-8519bcd72d52.png)
 
+
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
 Hello! I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
 
@@ -59,7 +60,8 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 <table>
  
 <tr>
-<td><a href="https://edmond-luu.github.io/blog"><img src="https://user-images.githubusercontent.com/26613209/212431376-9ab5123f-d7a0-4023-bb5e-9f243b08380e.png" width=500px/></a></td>
+<td><a href="https://edmond-luu.github.io/blog"><img src="https://user-images.githubusercontent.com/26613209/212436209-67c8c32a-1b3d-48e3-9be5-ee5fc151b290.png"
+ width=500px/></a></td>
 <td><a href="https://edmond-luu.github.io/react-todo-list"><img src="https://user-images.githubusercontent.com/26613209/199574496-06224f8f-ac94-4b44-9a44-3a5e88c27c30.png" width=500px/></a></td>
 </tr>
 
