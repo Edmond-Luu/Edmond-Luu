@@ -64,7 +64,7 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 </tr>
 
 <tr>
-<td>Personal Website • <a href="https://github.com/Edmond-Luu/Edmond-Luu.github.io/blog">Repo</a> • <a href="https://edmond-Luu.github.io/blog">Website</a></td>
+<td>Blog Website • <a href="https://github.com/Edmond-Luu/Edmond-Luu.github.io/blog">Repo</a> • <a href="https://edmond-Luu.github.io/blog">Website</a></td>
 <td>Interactive Todo List • <a href="https://github.com/Edmond-Luu/react-todo-list">Repo</a> • <a href="https://edmond-Luu.github.io/react-todo-list">Application</a></td>
 
 </tr>
