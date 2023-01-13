@@ -51,6 +51,7 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 <br/>
 <br/>
 
+
 ---
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30"> Favorite Projects</h2>
@@ -58,12 +59,12 @@ Hello! I am a self-taught frontend web developer in San Jose, CA and I am curren
 <table>
  
 <tr>
-<td><a href="https://edmond-luu.github.io"><img src="https://user-images.githubusercontent.com/26613209/199573858-1f6d740b-05ce-4484-aa54-b8073f404657.png" width=500px/></a></td>
+<td><a href="https://edmond-luu.github.io/blog"><img src="https://user-images.githubusercontent.com/26613209/212431376-9ab5123f-d7a0-4023-bb5e-9f243b08380e.png" width=500px/></a></td>
 <td><a href="https://edmond-luu.github.io/react-todo-list"><img src="https://user-images.githubusercontent.com/26613209/199574496-06224f8f-ac94-4b44-9a44-3a5e88c27c30.png" width=500px/></a></td>
 </tr>
 
 <tr>
-<td>Personal Website • <a href="https://github.com/Edmond-Luu/Edmond-Luu.github.io">Repo</a> • <a href="https://edmond-Luu.github.io">Website</a></td>
+<td>Personal Website • <a href="https://github.com/Edmond-Luu/Edmond-Luu.github.io/blog">Repo</a> • <a href="https://edmond-Luu.github.io/blog">Website</a></td>
 <td>Interactive Todo List • <a href="https://github.com/Edmond-Luu/react-todo-list">Repo</a> • <a href="https://edmond-Luu.github.io/react-todo-list">Application</a></td>
 
 </tr>
