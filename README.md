@@ -4,8 +4,9 @@
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Web+Developer;Always+learning+new+things!&color=25a14c&font=arial)](https://git.io/typing-svg) -->
 
-![github-head1er-image(5)](https://user-images.githubusercontent.com/26613209/200404709-3c8a750e-db81-495d-8b18-8519bcd72d52.png)
+<!-- ![github-head1er-image(5)](https://user-images.githubusercontent.com/26613209/200404709-3c8a750e-db81-495d-8b18-8519bcd72d52.png) -->
 
+![github-header-image(5)](https://user-images.githubusercontent.com/26613209/218294441-246b19fd-2114-4c42-8b2b-440d3113b5ec.png)
 
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
 Hello! I am a self-taught developer in San Jose, CA. Welcome to my GitHub Profile!
