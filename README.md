@@ -8,7 +8,7 @@
 
 
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
-Hello! I am a self-taught frontend web developer in San Jose, CA and I am currently looking for a frontend web development role for me to continue expanding my skills and my knowledge.
+Hello! I am a self-taught developer in San Jose, CA. Welcome to my GitHub Profile!
 
 #
 
