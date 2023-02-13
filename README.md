@@ -124,7 +124,7 @@ Hello! I am a self-taught developer in San Jose, CA. Welcome to my GitHub Profil
 
 <details>
  <summary><h3>👨‍💻 Edmond's Coding Story</h3></summary>
-   I graduated college with the intend of entering the accounting field and I have previously worked as a bookkeeping intern. However, I decided that the accounting field is not the right fit for me as I wanted a much bigger challenge and a career where I can continuously build and improve.
+   I graduated college with the intend of entering the accounting field and I have previously worked as a bookkeeping intern. However, I decided to switch to the development field as I wanted a much bigger challenge and a career where I can continuously build and improve.
 </details>
 
 <details>
