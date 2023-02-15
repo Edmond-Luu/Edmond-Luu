@@ -9,7 +9,7 @@
 ![github-header-image(5)](https://user-images.githubusercontent.com/26613209/218294441-246b19fd-2114-4c42-8b2b-440d3113b5ec.png)
 
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=45px height=45px/> Introduction</h1>
-Hello! I am a self-taught developer in San Jose, CA. Welcome to my GitHub Profile!
+Hello! I am a self-taught developer. Welcome to my GitHub Profile!
 
 #
 
